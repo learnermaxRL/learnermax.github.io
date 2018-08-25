@@ -3,4 +3,4 @@ layout: post
 title: You're up and running!
 ---
 
-test-blog
+Welcome to all,curious minds!
